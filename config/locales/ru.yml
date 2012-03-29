@@ -1,0 +1,5 @@
+# Russian strings go here for Rails i18n
+ru:
+  permission_edit_assigned_to:     "Выбор назначения"
+  permission_edit_due_date:        "Изменение даты выполнения"
+  permission_edit_estimated_hours: "Изменение оценки времени"
